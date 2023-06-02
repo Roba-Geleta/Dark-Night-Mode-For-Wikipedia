@@ -1,0 +1,171 @@
+/*body{*/
+/*    background-color: #2d2d2d!important;*/
+/*    color: white!important;*/
+/*}*/
+main, header, body{
+    background-color: #2c2c2c !important;
+    color: #ffffff;
+}
+div, figure, figcaption, blockquote, ol, button, label, nav, code,.mwe-popups .mwe-popups-container, .mwe-popups {
+    background-color: inherit;
+    color: inherit;
+}
+h1, h2, h3, h4, h5, h6,p{
+    background-color: inherit;
+    color: inherit;
+}
+table, tbody, tr, td, th, ul, li, dl, dt, dd{
+    background-color: inherit;
+    color: inherit;
+}
+span, b, i{
+    background-color: inherit;
+    color: inherit;
+}
+
+.mwe-popups .mwe-popups-extract[dir='ltr']:after {
+    right: 0;
+    background-blend-mode: darken;
+    background-image: none;
+}
+
+.mw-body, pre{
+    background-color: inherit;
+}
+.mw-sidebar
+{
+    background-color: inherit !important;
+}
+
+a{
+    color: #599EDAFF !important;
+}
+
+a:visited{
+    color: #9990fd !important;
+}
+
+
+a.new {
+    color: #d94646 !important;
+}
+
+img{
+}
+.tocnumber{
+    color: #4d93c7 !important;
+}
+
+.vector-menu-content li{
+    background-image: none!important;
+    color: #4b4242;
+}
+.vector-menu-heading-label{
+    color: burlywood !important;
+}
+.mw-list-item.collapsible{
+    background-image: none!important;
+    background-color: #4b4242;
+}
+
+.selected.mw-list-item{
+    background-image: none!important;
+    background-color: transparent!important;
+}
+
+#ca-nstab-main.mw-list-item.selected{
+    background-image: none!important;
+    background-color: transparent!important;
+}
+
+#ca-talk.mw-list-item.selected{
+    background-image: none!important;
+    background-color: transparent!important;
+}
+
+#ca-nstab-project.mw-list-item.selected{
+    background-image: none!important;
+    background-color: transparent!important;
+}
+
+#ca-nstab-main.mw-list-item{
+    background-image: none!important;
+    background-color: #4b4242!important;
+}
+
+#ca-nstab-project.mw-list-item{
+    background-image: none!important;
+    background-color: #4b4242!important;
+}
+
+#ca-talk.mw-list-item{
+    background-image: none!important;
+    background-color: #4b4242!important;
+}
+
+
+/*.mw-parser-output #mp-right .mp-h2{*/
+/*    background: rgba(0, 255, 255, 0.1)!important;*/
+/*}*/
+/*.mw-parser-output #mp-left .mp-h2{*/
+/*    background: rgba(127, 255, 212, 0.1)!important;*/
+/*}*/
+/*.mw-parser-output #mp-tfp-h2 {*/
+/*    background: rgba(250, 245, 255, 0.1)!important;*/
+/*}*/
+
+.languagesettings-menu .menu-section .settings-text{
+    color: burlywood !important;
+}
+
+.mw-notification-area-overlay{
+    background-color: transparent!important;
+}
+
+.mw-ui-pressed{
+    background-color: rgba(42, 75, 141, 0.22) !important;
+}
+
+input{
+    filter: invert(1) !important;
+}
+
+#wpCreateaccount{
+    background-color: rgba(42, 75, 141, 0.22) !important;
+}
+
+.mw-pt-progress--complete, .mw-pt-progress--high, .mw-pt-progress--low, .mw-pt-progress--med, .mw-pt-progress--stub   {
+
+}
+
+.box-header-title-container{
+    background: #3b3838 !important;
+}
+
+.related-portals{
+    background-color: rgba(31, 30, 30, 0.3)!important;
+}
+
+#mw-toc-heading{
+    color: #b7884e !important;
+}
+
+/*#mf-section-0 table, #mf-section-0 table tbody tr td{*/
+/*    background: #DFD!important;*/
+/*}*/
+
+.toccolours.plainlinks tbody tr th{
+    background: rgba(0, 204, 255, 0.07) !important;
+}
+
+.mw-ui-button.mw-ui-progressive{
+    background-color: rgba(42, 75, 141, 0.22) !important;
+}
+
+.mw-parser-output #style_me_button{
+    background-color: rgba(135, 206, 235, 0.07) !important;
+}
+
+.mwe-math-fallback-image-inline, .mwe-math-fallback-image-display{
+    filter:invert(1);
+}
